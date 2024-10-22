@@ -21,3 +21,5 @@ View results: Once the training is complete, a plot showing the loss and accurac
 Files
 train_test_analysis.py: The main script containing the code for training, testing, and analyzing the model.
 requirements.txt: File listing the Python dependencies required to run the project.
+
+Make sure to adjust the number of epochs or batch size accordingly.
